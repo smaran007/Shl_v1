@@ -8,7 +8,7 @@ Simple WhatsApp Bot
 > pkg install nodejs
 > pkg install ffmpeg
 > pkg install imagemagick
-> git clone https://github.com/mrravanan/kannapi-2.0.git
+> git clone https://github.com/MASTER-SHL/kannapi-2.0.git
 > cd kannapi-2.0
 > npm install
 ```
@@ -21,7 +21,7 @@ Simple WhatsApp Bot
 
 ### FOR WINDOWS/VPS/RDP USER
 ```bash
-> git clone https://github.com/mrravanan/kannapi-2.0.git
+> git clone https://github.com/MASTER-SHL/kannapi-2.0.git
 > cd kannapi-2.0
 > npm install
 ```
@@ -31,6 +31,6 @@ Simple WhatsApp Bot
 ```
  SOSMED:
  
- Instagram: __mr_ravanan
+ Instagram: s_h_l__royalmaster
  
- Youtube: Mr ravanan
+ Youtube: SHL VLOG
