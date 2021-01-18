@@ -1,4 +1,4 @@
-# Kannapi-2.0 - bot
+# shl_v1- bot
 Simple WhatsApp Bot
 
 ### FOR TERMUX USER
@@ -8,8 +8,8 @@ Simple WhatsApp Bot
 > pkg install nodejs
 > pkg install ffmpeg
 > pkg install imagemagick
-> git clone https://github.com/MASTER-SHL/kannapi-2.0.git
-> cd kannapi-2.0
+> git clone https://github.com/MASTER-SHL/shl_v1.git
+> cd shl_v1
 > npm install
 ```
 ###### Run
@@ -21,8 +21,8 @@ Simple WhatsApp Bot
 
 ### FOR WINDOWS/VPS/RDP USER
 ```bash
-> git clone https://github.com/MASTER-SHL/kannapi-2.0.git
-> cd kannapi-2.0
+> git clone https://github.com/MASTER-SHL/shl_v1.git
+> cd shl_v1
 > npm install
 ```
 ###### Run
