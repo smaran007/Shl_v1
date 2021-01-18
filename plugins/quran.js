@@ -4,7 +4,7 @@ QUR'AN BOT:
 Via Copas {SEBARKAN}
 
 *YouTube:*
-_~MR.RAVANAN_
+SHL VLOG
 
 Juz 1 ⇨ http://j.mp/2b8SiNO
 Juz 2 ⇨ http://j.mp/2b8RJmQ
