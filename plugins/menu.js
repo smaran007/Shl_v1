@@ -35,16 +35,18 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
 🤖═〘 క ɦ ℓ__v¹ 〙BOT  ═🤖
 █▀█ █▀ ▀ █▀ ▀ █▀█ █
 █▄█ █▀ █ █▄ █ █▀█ █▄
-Creator:╭══•›「 *INTRO* 」
-        │
-        │Nama  :SHAHUL HAMEED  
-        │phone :919645577195
-        │Insta :s_h_l__royalmaster
-        │Status:🔥🤙
-        │Gender:MALE
-        │        Wa/only
-        │   Wa.me/919645577195
-        ╰══════════════
+   Creator
+🤞🏻•✠•❀•✠•🤞🏻
+╭══•›「 *INTRO* 」
+│
+│Nama  :SHAHUL HAMEED  
+│phone :919645577195
+│Insta :s_h_l__royalmaster
+│Status:🔥🤙
+│Gender:MALE
+│        Wa/only
+│   Wa.me/919645577195
+╰══════════════
 
 Hi, ${name} 👋
 Exp: ${exp}
@@ -121,7 +123,7 @@ How to Add XP:
 ║ Advanced:
 ║  > return m
 ║
-╠══〘 క ɦ ℓ__v¹ 〙BOT  ═
+╠══〘 క ɦ ℓ__v¹ 〙BOT  ═⭐
 `.trim()
     conn.reply(m.chat, {...preview, text}, m)
   }
