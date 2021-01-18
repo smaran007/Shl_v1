@@ -83,7 +83,7 @@ How to Add XP:
 ╠➥ ${_p}readmore <teks>|<sembunyi>
 ╠➥ ${_p}quran
 ╠➥ ${_p}modApk
-║
+╠➥ ${-p}tts
 ╠═〘 Group 〙 ═
 ╠➥ ${_p}add[62xxxxxxxxx]
 ╠➥ ${_p}promote [@tagmember]
