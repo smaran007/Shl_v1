@@ -60,10 +60,7 @@ How to Add XP:
 +1 Exp/regular message
 +10 Exp/command
 
-╠═════✪〘 Menu 〙✪═══
-║
-╠═〘 Xp 〙 ═
-╠➥ ${_p}leaderboard [number of users]
+╠═✪〘 Menu 〙✪═
 ║
 ╠═〘 Command 〙 ═
 ╠➥ ${_p}menu
@@ -94,9 +91,7 @@ How to Add XP:
 ╠➥ ${_p}linkgrup
 ╠➥ ${_p}pengumuman [text]
 ╠➥ ${_p}hidetag [text]
-╠➥ ${_p}listonline
 ╠➥ ${_p}kick @Member
-╠➥ ${_p}grouplist
 ║
 ╠═〘 INFO 〙 ═
 ╠➥ ${_p}info
