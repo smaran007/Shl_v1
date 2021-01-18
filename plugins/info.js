@@ -12,7 +12,7 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
 ╠═〘 Thanks To 〙 ═
 ╠➥ ➵͜͡☠🚩⃟⚔҉Sђaͥhuͣlͫ༄🎭᭄༻
 ╠➥ ™ shahul
-╠➥ 
+╠➥ ❤️𝕵𝖚𝖘𝖙 𝕰𝖓𝖏𝖔𝔜 ℑ𝔱❤️
 ║
 ╠══〘 క ɦ ℓ__v¹ 〙BOT═says
 ╠➥   MAKE GROUP ADMIN 
