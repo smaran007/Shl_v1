@@ -32,22 +32,19 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
       .replace(/%week/g, week)
       .replace(/%date/g, date)
       .replace(/%time/g, time): `
-🤖═〘 క ɦ ℓ__v¹ 〙BOT  ═🤖
-█▀█ █▀ ▀ █▀ ▀ █▀█ █
-█▄█ █▀ █ █▄ █ █▀█ █▄
-   Creator
-  🤞🏻•••••🤞🏻
+🧟 ✪〘 *LUCIFER BOT* 〙✪ 🧟
+        Creator
 ╭══•›「 *INTRO* 」
 │
-│Nama  :SHAHUL HAMEED  
-│phone :919645577195
-│Insta :s_h_l__royalmaster
-│Status:🔥🤙
+│Nama  : smaran kuttu  
+│phone :+917993456623
+│Insta :2003____psy
+│Status:Active
 │Gender:MALE
-│        Wa/only
-│   Wa.me/919645577195
+│        contact me
+│   Wa.me/917994356623
 ╰══════════════
-Hi, ${name} 👋
+Hi, ${name} 💥👽
 Exp: ${exp}
 📟 Time: ${time}
 📆 Date: ${week}, ${date}
@@ -55,7 +52,7 @@ ${more.repeat(1000)}
 How to Add XP:
 +1 Exp/regular message
 +10 Exp/command
-╠═✪〘 Menu 〙✪═
+╠═✪〘 Menu 〙✪
 ║
 ╠═〘 Command 〙 ═
 ╠➥ ${_p}menu
@@ -100,18 +97,18 @@ How to Add XP:
 ╠➥ ${_p}mutechat group
 ║
 ╠═〘 ADVERTISEMENT 〙 ═
-╠➥ Instagram: https://instagram.com/s_h_l__royalmaster?igshid=5r91qr6aoh7b
-╠➥ YᴏᴜTᴜʙᴇ: https://youtube.com/channel/UCC8P1xSDECr5URXD5bMrkFQ
+╠➥ Instagram: https://instagram.com/2003____psy
+╠➥ YᴏᴜTᴜʙᴇ: https://youtube.com/channel/UCETyZkEQbyLIoDgI1e5SmAA
 ║
 ╠═〘 Info Bot 〙 ═
-╠➥ Name : ═〘 క ɦ ℓ__v¹ 〙BOT  ═
+╠➥ Name : ✪〘 *LUCIFER BOT* 〙✪
 ╠➥ Coded using * Nano * on Android \\ w Termux
-╠➥ Request? wa.me//+919645577195
+╠➥ Request? wa.me//+917994356623
 ╠═════
 ║ Advanced:
 ║  > return m
 ║
-╠══〘 క ɦ ℓ__v¹ 〙BOT  ═⭐
+╠══✪〘 *LUCIFER BOT* 〙✪
 `.trim()
     conn.reply(m.chat, {...preview, text}, m)
   }
